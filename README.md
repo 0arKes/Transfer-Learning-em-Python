@@ -23,7 +23,7 @@
 
 <h2>🧪 Como testar</h2>
 <ol>
-  <li>Abra o notebook no <a href="https://colab.research.google.com/drive/1Si-dALMS9d7UALJYM96oqsDOAAk2Cqr8?usp=sharing" target="_blank">Google Colab</a></li>
+  <li>Abra o notebook no <a target="_blank" href="https://colab.research.google.com/drive/1Si-dALMS9d7UALJYM96oqsDOAAk2Cqr8?usp=sharing">Google Colab</a></li>
   <li>Execute todas as células</li>
   <li>Faça upload de uma imagem (gato ou cachorro)</li>
   <li>Veja a predição na saída do notebook</li>
